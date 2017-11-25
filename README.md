@@ -1,1 +1,1 @@
-# gokhanbirincii.github.io
+# Personal static web site
